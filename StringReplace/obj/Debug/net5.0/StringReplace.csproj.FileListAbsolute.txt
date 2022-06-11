@@ -1,0 +1,14 @@
+/Users/aleks/Projects/StringsAndArrays/StringReplace/bin/Debug/net5.0/StringReplace.deps.json
+/Users/aleks/Projects/StringsAndArrays/StringReplace/bin/Debug/net5.0/StringReplace.runtimeconfig.json
+/Users/aleks/Projects/StringsAndArrays/StringReplace/bin/Debug/net5.0/StringReplace.runtimeconfig.dev.json
+/Users/aleks/Projects/StringsAndArrays/StringReplace/bin/Debug/net5.0/StringReplace.dll
+/Users/aleks/Projects/StringsAndArrays/StringReplace/bin/Debug/net5.0/ref/StringReplace.dll
+/Users/aleks/Projects/StringsAndArrays/StringReplace/bin/Debug/net5.0/StringReplace.pdb
+/Users/aleks/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.AssemblyInfoInputs.cache
+/Users/aleks/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.AssemblyInfo.cs
+/Users/aleks/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.dll
+/Users/aleks/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/ref/StringReplace.dll
+/Users/aleks/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.pdb
+/Users/aleks/Projects/StringsAndArrays/StringReplace/obj/Debug/net5.0/StringReplace.genruntimeconfig.cache

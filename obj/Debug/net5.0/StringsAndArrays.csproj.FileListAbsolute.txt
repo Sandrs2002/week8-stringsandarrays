@@ -1,0 +1,15 @@
+/Users/aleks/Projects/StringsAndArrays/bin/Debug/net5.0/StringsAndArrays.deps.json
+/Users/aleks/Projects/StringsAndArrays/bin/Debug/net5.0/StringsAndArrays.runtimeconfig.json
+/Users/aleks/Projects/StringsAndArrays/bin/Debug/net5.0/StringsAndArrays.runtimeconfig.dev.json
+/Users/aleks/Projects/StringsAndArrays/bin/Debug/net5.0/StringsAndArrays.dll
+/Users/aleks/Projects/StringsAndArrays/bin/Debug/net5.0/ref/StringsAndArrays.dll
+/Users/aleks/Projects/StringsAndArrays/bin/Debug/net5.0/StringsAndArrays.pdb
+/Users/aleks/Projects/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.csproj.AssemblyReference.cache
+/Users/aleks/Projects/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.AssemblyInfoInputs.cache
+/Users/aleks/Projects/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.AssemblyInfo.cs
+/Users/aleks/Projects/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.dll
+/Users/aleks/Projects/StringsAndArrays/obj/Debug/net5.0/ref/StringsAndArrays.dll
+/Users/aleks/Projects/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.pdb
+/Users/aleks/Projects/StringsAndArrays/obj/Debug/net5.0/StringsAndArrays.genruntimeconfig.cache

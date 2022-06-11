@@ -1,0 +1,14 @@
+/Users/aleks/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.deps.json
+/Users/aleks/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.runtimeconfig.json
+/Users/aleks/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.runtimeconfig.dev.json
+/Users/aleks/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.dll
+/Users/aleks/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/ref/DontPanic.dll
+/Users/aleks/Projects/StringsAndArrays/DontPanic/bin/Debug/net5.0/DontPanic.pdb
+/Users/aleks/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.AssemblyInfoInputs.cache
+/Users/aleks/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.AssemblyInfo.cs
+/Users/aleks/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.dll
+/Users/aleks/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/ref/DontPanic.dll
+/Users/aleks/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.pdb
+/Users/aleks/Projects/StringsAndArrays/DontPanic/obj/Debug/net5.0/DontPanic.genruntimeconfig.cache

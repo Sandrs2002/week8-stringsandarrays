@@ -1,0 +1,15 @@
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/bin/Debug/net5.0/ForLoopForString.deps.json
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/bin/Debug/net5.0/ForLoopForString.runtimeconfig.json
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/bin/Debug/net5.0/ForLoopForString.runtimeconfig.dev.json
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/bin/Debug/net5.0/ForLoopForString.dll
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/bin/Debug/net5.0/ref/ForLoopForString.dll
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/bin/Debug/net5.0/ForLoopForString.pdb
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.csproj.AssemblyReference.cache
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.AssemblyInfoInputs.cache
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.AssemblyInfo.cs
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.dll
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ref/ForLoopForString.dll
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.pdb
+/Users/aleks/Projects/StringsAndArrays/ForLoopForString/obj/Debug/net5.0/ForLoopForString.genruntimeconfig.cache

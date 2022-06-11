@@ -1,0 +1,15 @@
+/Users/aleks/Projects/StringsAndArrays/OCounter/bin/Debug/net5.0/OCounter.deps.json
+/Users/aleks/Projects/StringsAndArrays/OCounter/bin/Debug/net5.0/OCounter.runtimeconfig.json
+/Users/aleks/Projects/StringsAndArrays/OCounter/bin/Debug/net5.0/OCounter.runtimeconfig.dev.json
+/Users/aleks/Projects/StringsAndArrays/OCounter/bin/Debug/net5.0/OCounter.dll
+/Users/aleks/Projects/StringsAndArrays/OCounter/bin/Debug/net5.0/ref/OCounter.dll
+/Users/aleks/Projects/StringsAndArrays/OCounter/bin/Debug/net5.0/OCounter.pdb
+/Users/aleks/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.csproj.AssemblyReference.cache
+/Users/aleks/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.AssemblyInfoInputs.cache
+/Users/aleks/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.AssemblyInfo.cs
+/Users/aleks/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.dll
+/Users/aleks/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/ref/OCounter.dll
+/Users/aleks/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.pdb
+/Users/aleks/Projects/StringsAndArrays/OCounter/obj/Debug/net5.0/OCounter.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/bin/Debug/net5.0/StringAndIndexes.deps.json
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/bin/Debug/net5.0/StringAndIndexes.runtimeconfig.json
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/bin/Debug/net5.0/StringAndIndexes.runtimeconfig.dev.json
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/bin/Debug/net5.0/StringAndIndexes.dll
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/bin/Debug/net5.0/ref/StringAndIndexes.dll
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/bin/Debug/net5.0/StringAndIndexes.pdb
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.csproj.AssemblyReference.cache
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.AssemblyInfoInputs.cache
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.AssemblyInfo.cs
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.dll
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/ref/StringAndIndexes.dll
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.pdb
+/Users/aleks/Projects/StringsAndArrays/StringAndIndexes/obj/Debug/net5.0/StringAndIndexes.genruntimeconfig.cache

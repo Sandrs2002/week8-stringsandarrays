@@ -1,0 +1,14 @@
+/Users/aleks/Projects/StringsAndArrays/NameReverse/bin/Debug/net5.0/NameReverse.deps.json
+/Users/aleks/Projects/StringsAndArrays/NameReverse/bin/Debug/net5.0/NameReverse.runtimeconfig.json
+/Users/aleks/Projects/StringsAndArrays/NameReverse/bin/Debug/net5.0/NameReverse.runtimeconfig.dev.json
+/Users/aleks/Projects/StringsAndArrays/NameReverse/bin/Debug/net5.0/NameReverse.dll
+/Users/aleks/Projects/StringsAndArrays/NameReverse/bin/Debug/net5.0/ref/NameReverse.dll
+/Users/aleks/Projects/StringsAndArrays/NameReverse/bin/Debug/net5.0/NameReverse.pdb
+/Users/aleks/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleks/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.AssemblyInfoInputs.cache
+/Users/aleks/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.AssemblyInfo.cs
+/Users/aleks/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.csproj.CoreCompileInputs.cache
+/Users/aleks/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.dll
+/Users/aleks/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/ref/NameReverse.dll
+/Users/aleks/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.pdb
+/Users/aleks/Projects/StringsAndArrays/NameReverse/obj/Debug/net5.0/NameReverse.genruntimeconfig.cache

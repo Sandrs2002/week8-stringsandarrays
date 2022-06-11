@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{D984251C-23E8-405F-A876-A0B0F617F3F3}|Default">
+  <MonoDevelop.Ide.ItemProperties.OCounter PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DontPanic FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.StringsAndArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.StringReplace PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DontPanic/Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="11" Column="44" />
+      <File FileName="StringAndIndexes/Program.cs" Line="1" Column="1" />
+      <File FileName="ForLoopForString/Program.cs" Line="30" Column="2" />
+      <File FileName="OCounter/Program.cs" Line="11" Column="73" />
+      <File FileName="StringReplace/Program.cs" Line="15" Column="45" />
+      <File FileName="NameReverse/Program.cs" Line="13" Column="41" />
+      <File FileName="DontPanic/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StringsAndArrays" expanded="True">
+            <Node name="DontPanic" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="ForLoopForString" expanded="True" />
+            <Node name="NameReverse" expanded="True" />
+            <Node name="OCounter" expanded="True" />
+            <Node name="StringAndIndexes" expanded="True" />
+            <Node name="StringReplace" expanded="True" />
+            <Node name="StringsAndArrays" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.StringAndIndexes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.NameReverse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ForLoopForString PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
